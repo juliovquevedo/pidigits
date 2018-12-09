@@ -23,13 +23,13 @@ button {
 }
 
 .whole {
-    font-size: 5rem;
+    font-size: 12vw;
     margin: 0;
-    padding-left: 1em;
+    padding-left: 0.7em;
 }
 
 #digits {
-    font-size: 10vw;
+    font-size: 12vw;
     margin: 0;
-    padding: 0 4rem;
+    padding: 0 1.4em;
 }
