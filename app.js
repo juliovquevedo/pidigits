@@ -7,6 +7,9 @@ function getDigits(n) {
         result = result + digits_of_pi[i];
         if (((i+1) % 10) == 0) {
             result = result + '<br>';
+            if (((i+1) % 100) == 0) {
+                result = result + '<hr>';
+            }
         }
     }
     
