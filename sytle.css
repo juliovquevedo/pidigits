@@ -21,3 +21,14 @@ button {
     color: navy;
     border-radius: 1rem;
 }
+
+.whole {
+    font-size: 5rem;
+    margin-top: 0;
+    padding-left: 1em;
+}
+
+#digits {
+    font-size: 10vw;
+    margin-top: 1rem;
+}
