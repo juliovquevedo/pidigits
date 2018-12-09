@@ -1,0 +1,20 @@
+h1 {
+    text-align: center;
+}
+
+input {
+    border: none;
+    background-color: #fafafa;
+    display: block;
+    text-align: center;
+    line-height: 2.5em;
+    width: 200px;
+    margin: 2em auto;
+}
+
+button {
+    width: 100px;
+    display: block;
+    margin: 0 auto;
+    font-size: 0.8em;
+}
