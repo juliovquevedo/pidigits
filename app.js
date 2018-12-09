@@ -5,6 +5,9 @@ function getDigits(n) {
     var result = '';
     for (i = 0; i < n; i++) {
         result = result + digits_of_pi[i];
+        if (((i+1) % 10) == 0) {
+            result = result + '<br>';
+        }
     }
     
     document.getElementById("digits").innerHTML = result;
